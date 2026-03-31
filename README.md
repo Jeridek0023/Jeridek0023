@@ -4,10 +4,11 @@
 📍 Philippines
 
 ### 🚀 About Me
-I’m currently working as an Application Support Engineer, where I handle system issues, analyze data, and ensure smooth operations of business-critical applications.
-#### I have hands-on experience working with: 
-- SQL and data analysis <br><br>
-- Troubleshooting production issues
+I’m currently working as an Application Support Engineer, where I handle system issues, analyze data, and ensure smooth operations of business-critical applications. <br><br>
+ I have hands-on experience working with:
+- SQL and data analysis
+- Troubleshooting production issues <br>
+
 Now, I’m transitioning into Software Engineering, focusing on building real-world projects and improving my development skills.
 
 ### 🛠️ Tech Stack
@@ -22,11 +23,11 @@ Now, I’m transitioning into Software Engineering, focusing on building real-wo
 - Writing clean and maintainable code
 
 ### 🎯 Goals
-Transition into a Software Engineer role
-Build scalable and useful applications
-Continuously improve coding and problem-solving skills
+Transition into a Software Engineer role<br>
+Build scalable and useful applications<br>
+Continuously improve coding and problem-solving skills<br>
 
-⚡ Fun Fact
+⚡ Fun Fact<br>
 I enjoy solving system issues and turning them into long-term solutions 🚀
 
 <!--
